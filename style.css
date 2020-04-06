@@ -1,0 +1,33 @@
+body {
+  font-family: Helvetica;
+  background: #FFFFF0;
+}
+h2 {
+  margin: 8px 0;
+}
+#wrapper {
+  width: 600px;
+  margin: 0 auto;
+  background: #FFFFF0;
+}
+input {
+  margin: 10px 10px;
+}
+button {
+  font-size: 22px;
+  padding: 11px;
+  margin: 11px 0;
+  color: black;
+  border: 0;
+  border-radius: 5px;
+  border-bottom: 3px solid black;
+}
+#submit {
+  background: #7CFC00;
+}
+
+#answer {
+  border: 1px dashed #ccc;
+  background: #eee;
+  padding: 10px;
+}
